@@ -2,4 +2,18 @@
     <string name="app_name">Projet_Louis_Baudry</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ajout">Ajout de nouveaux article</string>
+    <string name="prenom">Entrez notre prénom</string>
+    <string name="nom">Entrez votre nom</string>
+    <string name="tel">Entrez votre télephone</string>
+    <string name="pseudo">Entrez votre pseudo</string>
+    <string name="psw">Entrez votre mot de passe</string>
+    <string name="title_article">Entrez le titre</string>
+    <string name="prix_article">Entrez le prix</string>
+    <string name="localisation">Entrez la localisation</string>
+    <string name="mail">Entrez votre mail</string>
+    <string name="connexion">Connexion</string>
+    <string name="inscription">Inscription</string>
+    <string name="inscription_phrase"><u>Pas encore inscript ? <b>Inscrivez vous !</b></u></string>
+    
 </resources>
